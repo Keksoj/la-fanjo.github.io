@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: Pri
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Mi naskiĝis en palindroma jaro, sed mi aĝas nek 20 nek 141 jarojn. Domaĝe aŭ maldomaĝe mi alvenis en ĉi tiu mondo kun virinaj seksorganoj inter mia kokso. Mi estas ano de la lando, kiu estas tro malproksime de Dio kaj tro proksime de Usono. Mi studis en universitato por fariĝi Oompa Loompa de la scienco de elektronoj, kiu ankaŭ ŝatas paroli al komputiloj. Mi ne kredas je magiaj estuloj, sed mi ne proklamas, ke mi posedas la veron pri io ajn.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Mi estas kaj idealisma kaj praktika. Mi estas vera introvertulo, sed strange mi ŝategas lerni homajn lingvojn. Mi precipe pasigas mian tempon legante seriozajn kaj aĉegajn librojn, aŭskultante enuigan kaj laŭtan muzikon, verkante amuzetajn kaj terurajn pensojn, ktp. Bonŝance scivolemo ankoraŭ ne mortigis min. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Mi revas vojaĝi tra la tuta mondo.
 
+Mi neniam estis mojosa.
 
-[jekyll-organization]: https://github.com/jekyll
+Nuna loko: Toluko, Meksiko.

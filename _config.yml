@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Pensujo de Fanjo
-email: miestasfanjo@gmail.com
+email: miestasfanjo(ĉe)gmail(punkto)com
 description: >- # this means to ignore newlines until "baseurl:"
   Bonvenon al mia blogo!
 baseurl: "" # the subpath of your site, e.g. /blog
